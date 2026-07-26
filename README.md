@@ -26,4 +26,5 @@ In this simulation there are 2 big underlying areas that the client seeks to imp
 
 ## Repository Contents
 - `/Task 5 Equality Table.xlsx` — Raw Dataset
-- `/CapstoneProject.png` — dashboard previews
+- `/Task 5 Equality Table_edit.xlsx` — Dataset with the created Equality Class
+- `/Deloitte_task1.png` — Dashboard previews
