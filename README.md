@@ -25,5 +25,5 @@ In this simulation there are 2 big underlying areas that the client seeks to imp
 3. Almost 50% of the employee received unfair to highly discriminative pay based on the Equlity Score they've received
 
 ## Repository Contents
-- `/CapstoneProject.xlsx` — dataset
+- `/Task 5 Equality Table.xlsx` — Raw Dataset
 - `/CapstoneProject.png` — dashboard previews
