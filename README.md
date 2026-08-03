@@ -1,5 +1,5 @@
 # Deloitte-Job-Simulation
-it is a data analyst job simulation hosted by Forage and sponsored by Deloitte Australia. 
+It is a data analyst job simulation hosted by Forage and sponsored by Deloitte Australia. 
 This job simulation focuses on analyzing payroll datasets to identify discrepancies and surgace trends
 that informed impoved payroll strategies.
 
